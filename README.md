@@ -10,7 +10,7 @@ After thorough data cleaning to remove empty columns and handle missing data, th
 The target variable is binary: 1 representing Highly Profitable (Top Quartile) and 0 otherwise.
 
 **c. Github Repository Link**
-[Insert your GitHub Repository URL here]
+https://github.com/Pureany-bits/nifty-500-ml-assignment/tree/main
 
 **d. Models used & Evaluation Metrics**
 
